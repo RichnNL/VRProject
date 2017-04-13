@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 8757fae949f132e4db1cf7891b4d1d8a
+timeCreated: 1478774220
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.010
+    100002: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.011
+    100004: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.025
+    100006: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.045
+    100008: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.003
+    100010: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.040
+    100012: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.041
+    100014: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.042
+    100016: 32_la_binnendeur_gibolat dagmaat 1000x2300 [5496820].001
+    100018: 32_la_deur_geen-zijlicht bih-D - schachtkozijn_grote_kern_beggr
+    100020: 32_la_deur_geen-zijlicht bih-F - 730x2315_rechts (leidingsc.001
+    100022: 32_la_dubbeledeur_buitendraaiend bih-A - schachtkozijn_grote_ke
+    100024: 32_la_dubbeledeur_buitendraaiend bih-A - schachtkozijn_klei.001
+    100026: 32_la_paneel_tussen_deuren schachtkozijn_grote_kern_beggr_t.001
+    100028: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.020
+    100030: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.037
+    100032: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.038
+    100034: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.086
+    100036: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.087
+    100038: 42_la_wandpaneel_dik_hoek la_akoestisch_wandpaneel_2860x585x340
+    100040: //RootNode
+    100042: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5308985]
+    100044: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5309246]
+    100046: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5309683]
+    100048: Basic Wall 22_la_hardhout_100mm [3576732]
+    100050: Basic Wall 22_la_hardhout_100mm [3576734]
+    100052: Basic Wall 22_la_hardhout_100mm [4059271]
+    100054: Basic Wall 22_la_hardhout_100mm [4068870]
+    100056: Basic Wall 22_la_hardhout_100mm [4072757]
+    100058: Basic Wall 22_la_hardhout_100mm [4081321]
+    100060: Basic Wall 22_la_hout_146 [4199988]
+    100062: Basic Wall 22_la_hout_146 [708547]
+    100064: Basic Wall 22_la_kalkzandsteen_150mm [1031761]
+    100066: Basic Wall 22_la_kalkzandsteen_150mm [1031763]
+    100068: Basic Wall 22_la_kalkzandsteen_150mm [1031765]
+    100070: Basic Wall 22_la_luchtspouw_146 [708548]
+    100072: Basic Wall 22_la_metalstud_100mm [1022487].001
+    100074: Basic Wall 22_la_metalstud_100mm [1112360].001
+    100076: Basic Wall 22_la_metalstud_100mm [1113827]
+    100078: Basic Wall 22_la_metalstud_100mm [1403901]
+    100080: Basic Wall 22_la_metalstud_100mm [2902357].001
+    100082: Basic Wall 22_la_metalstud_100mm [2942002].001
+    100084: Basic Wall 22_la_metalstud_100mm [2942034].001
+    100086: Basic Wall 22_la_metalstud_100mm [2942035].001
+    100088: Basic Wall 22_la_metalstud_100mm [3116655]
+    100090: Basic Wall 22_la_metalstud_100mm [4201615]
+    100092: Basic Wall 22_la_metalstud_100mm [4204214].001
+    100094: Basic Wall 22_la_metalstud_100mm [5254029].001
+    100096: Basic Wall 22_la_metalstud_100mm [5279616]
+    100098: Basic Wall 22_la_metalstud_100mm [5390553]
+    100100: Basic Wall 22_la_metalstud_100mm [5399289]
+    100102: Basic Wall 22_la_metalstud_100mm [5687912]
+    100104: Basic Wall 22_la_metalstud_100mm [5869175]
+    100106: Basic Wall 22_la_metalstud_100mm [870024]
+    100108: Basic Wall 22_la_metalstud_200mm [1022489].001
+    100110: Basic Wall 22_la_metalstud_enkelzijdig_beplaat_70mm [5114214]
+    100112: Basic Wall 22_la_ontwerpwand_100 [497153]
+    100114: Basic Wall 22_la_ontwerpwand_100 [5474402]
+    100116: Basic Wall 22_la_ontwerpwand_100 [608442]
+    100118: Basic Wall 22_la_ontwerpwand_100 [608531]
+    100120: Basic Wall 22_la_ontwerpwand_glas_100 [497152]
+    100122: Basic Wall 22_la_ontwerpwand_glas_100 [497154]
+    100124: Basic Wall 22_la_ontwerpwand_glas_100 [497165]
+    100126: Basic Wall 22_la_ontwerpwand_glas_100 [5474321]
+    100128: Basic Wall 22_la_ontwerpwand_glas_100 [5474373]
+    100130: Basic Wall 22_la_ontwerpwand_glas_100 [5475313]
+    100132: Basic Wall 22_la_ontwerpwand_glas_100 [5475502]
+    100134: Basic Wall 22_la_ontwerpwand_glas_100 [608438]
+    100136: Basic Wall 22_la_ontwerpwand_glas_100 [608770]
+    100138: Basic Wall 22_la_ontwerpwand_glas_100 [608805]
+    100140: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [.000
+    100142: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [.001
+    100144: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [5381
+    100146: Basic Wall 28_la_beton_300mm [1022302]
+    100148: Basic Wall 28_la_beton_300mm [1022306]
+    100150: Basic Wall 28_la_beton_300mm [1031757]
+    100152: Basic Wall 28_la_beton_300mm [1116385].001
+    100154: Basic Wall 28_la_beton_300mm [1293190]
+    100156: Basic Wall 28_la_beton_300mm [1293363]
+    100158: Basic Wall 28_la_beton_300mm [1293495]
+    100160: Basic Wall 28_la_beton_300mm [1294049]
+    100162: Basic Wall 28_la_beton_300mm [3404118]
+    100164: Basic Wall 28_la_beton_300mm [3582313]
+    100166: Basic Wall 28_la_beton_300mm [3584702]
+    100168: Basic Wall 28_la_beton_300mm [3586331]
+    100170: Basic Wall 28_la_beton_300mm [3586491]
+    100172: Basic Wall 28_la_beton_300mm [870011]
+    100174: Basic Wall 28_la_beton_300mm [870015]
+    100176: Basic Wall 28_la_beton_300mm [870017]
+    100178: Basic Wall 28_la_beton_300mm [870019]
+    100180: Basic Wall 28_la_beton_500mm [3119787]
+    100182: Floor la_cementdek_108_kunststof_2 [1117089].001
+    100184: Floor la_cementdek_109_coating_1 [706389]
+    100186: Floor la_pootjes_computervloer_107_pvc_3 [6625666].001
+    100188: Wall Sweep houten bekleding_verd2 [5310584]
+    400000: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.010
+    400002: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.011
+    400004: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.025
+    400006: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.045
+    400008: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.003
+    400010: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.040
+    400012: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.041
+    400014: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.042
+    400016: 32_la_binnendeur_gibolat dagmaat 1000x2300 [5496820].001
+    400018: 32_la_deur_geen-zijlicht bih-D - schachtkozijn_grote_kern_beggr
+    400020: 32_la_deur_geen-zijlicht bih-F - 730x2315_rechts (leidingsc.001
+    400022: 32_la_dubbeledeur_buitendraaiend bih-A - schachtkozijn_grote_ke
+    400024: 32_la_dubbeledeur_buitendraaiend bih-A - schachtkozijn_klei.001
+    400026: 32_la_paneel_tussen_deuren schachtkozijn_grote_kern_beggr_t.001
+    400028: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.020
+    400030: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.037
+    400032: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.038
+    400034: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.086
+    400036: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.087
+    400038: 42_la_wandpaneel_dik_hoek la_akoestisch_wandpaneel_2860x585x340
+    400040: //RootNode
+    400042: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5308985]
+    400044: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5309246]
+    400046: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5309683]
+    400048: Basic Wall 22_la_hardhout_100mm [3576732]
+    400050: Basic Wall 22_la_hardhout_100mm [3576734]
+    400052: Basic Wall 22_la_hardhout_100mm [4059271]
+    400054: Basic Wall 22_la_hardhout_100mm [4068870]
+    400056: Basic Wall 22_la_hardhout_100mm [4072757]
+    400058: Basic Wall 22_la_hardhout_100mm [4081321]
+    400060: Basic Wall 22_la_hout_146 [4199988]
+    400062: Basic Wall 22_la_hout_146 [708547]
+    400064: Basic Wall 22_la_kalkzandsteen_150mm [1031761]
+    400066: Basic Wall 22_la_kalkzandsteen_150mm [1031763]
+    400068: Basic Wall 22_la_kalkzandsteen_150mm [1031765]
+    400070: Basic Wall 22_la_luchtspouw_146 [708548]
+    400072: Basic Wall 22_la_metalstud_100mm [1022487].001
+    400074: Basic Wall 22_la_metalstud_100mm [1112360].001
+    400076: Basic Wall 22_la_metalstud_100mm [1113827]
+    400078: Basic Wall 22_la_metalstud_100mm [1403901]
+    400080: Basic Wall 22_la_metalstud_100mm [2902357].001
+    400082: Basic Wall 22_la_metalstud_100mm [2942002].001
+    400084: Basic Wall 22_la_metalstud_100mm [2942034].001
+    400086: Basic Wall 22_la_metalstud_100mm [2942035].001
+    400088: Basic Wall 22_la_metalstud_100mm [3116655]
+    400090: Basic Wall 22_la_metalstud_100mm [4201615]
+    400092: Basic Wall 22_la_metalstud_100mm [4204214].001
+    400094: Basic Wall 22_la_metalstud_100mm [5254029].001
+    400096: Basic Wall 22_la_metalstud_100mm [5279616]
+    400098: Basic Wall 22_la_metalstud_100mm [5390553]
+    400100: Basic Wall 22_la_metalstud_100mm [5399289]
+    400102: Basic Wall 22_la_metalstud_100mm [5687912]
+    400104: Basic Wall 22_la_metalstud_100mm [5869175]
+    400106: Basic Wall 22_la_metalstud_100mm [870024]
+    400108: Basic Wall 22_la_metalstud_200mm [1022489].001
+    400110: Basic Wall 22_la_metalstud_enkelzijdig_beplaat_70mm [5114214]
+    400112: Basic Wall 22_la_ontwerpwand_100 [497153]
+    400114: Basic Wall 22_la_ontwerpwand_100 [5474402]
+    400116: Basic Wall 22_la_ontwerpwand_100 [608442]
+    400118: Basic Wall 22_la_ontwerpwand_100 [608531]
+    400120: Basic Wall 22_la_ontwerpwand_glas_100 [497152]
+    400122: Basic Wall 22_la_ontwerpwand_glas_100 [497154]
+    400124: Basic Wall 22_la_ontwerpwand_glas_100 [497165]
+    400126: Basic Wall 22_la_ontwerpwand_glas_100 [5474321]
+    400128: Basic Wall 22_la_ontwerpwand_glas_100 [5474373]
+    400130: Basic Wall 22_la_ontwerpwand_glas_100 [5475313]
+    400132: Basic Wall 22_la_ontwerpwand_glas_100 [5475502]
+    400134: Basic Wall 22_la_ontwerpwand_glas_100 [608438]
+    400136: Basic Wall 22_la_ontwerpwand_glas_100 [608770]
+    400138: Basic Wall 22_la_ontwerpwand_glas_100 [608805]
+    400140: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [.000
+    400142: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [.001
+    400144: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [5381
+    400146: Basic Wall 28_la_beton_300mm [1022302]
+    400148: Basic Wall 28_la_beton_300mm [1022306]
+    400150: Basic Wall 28_la_beton_300mm [1031757]
+    400152: Basic Wall 28_la_beton_300mm [1116385].001
+    400154: Basic Wall 28_la_beton_300mm [1293190]
+    400156: Basic Wall 28_la_beton_300mm [1293363]
+    400158: Basic Wall 28_la_beton_300mm [1293495]
+    400160: Basic Wall 28_la_beton_300mm [1294049]
+    400162: Basic Wall 28_la_beton_300mm [3404118]
+    400164: Basic Wall 28_la_beton_300mm [3582313]
+    400166: Basic Wall 28_la_beton_300mm [3584702]
+    400168: Basic Wall 28_la_beton_300mm [3586331]
+    400170: Basic Wall 28_la_beton_300mm [3586491]
+    400172: Basic Wall 28_la_beton_300mm [870011]
+    400174: Basic Wall 28_la_beton_300mm [870015]
+    400176: Basic Wall 28_la_beton_300mm [870017]
+    400178: Basic Wall 28_la_beton_300mm [870019]
+    400180: Basic Wall 28_la_beton_500mm [3119787]
+    400182: Floor la_cementdek_108_kunststof_2 [1117089].001
+    400184: Floor la_cementdek_109_coating_1 [706389]
+    400186: Floor la_pootjes_computervloer_107_pvc_3 [6625666].001
+    400188: Wall Sweep houten bekleding_verd2 [5310584]
+    2300000: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.010
+    2300002: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.011
+    2300004: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.025
+    2300006: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.045
+    2300008: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.003
+    2300010: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.040
+    2300012: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.041
+    2300014: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.042
+    2300016: 32_la_binnendeur_gibolat dagmaat 1000x2300 [5496820].001
+    2300018: 32_la_deur_geen-zijlicht bih-D - schachtkozijn_grote_kern_beggr
+    2300020: 32_la_deur_geen-zijlicht bih-F - 730x2315_rechts (leidingsc.001
+    2300022: 32_la_dubbeledeur_buitendraaiend bih-A - schachtkozijn_grote_ke
+    2300024: 32_la_dubbeledeur_buitendraaiend bih-A - schachtkozijn_klei.001
+    2300026: 32_la_paneel_tussen_deuren schachtkozijn_grote_kern_beggr_t.001
+    2300028: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.020
+    2300030: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.037
+    2300032: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.038
+    2300034: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.086
+    2300036: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.087
+    2300038: 42_la_wandpaneel_dik_hoek la_akoestisch_wandpaneel_2860x585x340
+    2300040: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5308985]
+    2300042: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5309246]
+    2300044: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5309683]
+    2300046: Basic Wall 22_la_hardhout_100mm [3576732]
+    2300048: Basic Wall 22_la_hardhout_100mm [3576734]
+    2300050: Basic Wall 22_la_hardhout_100mm [4059271]
+    2300052: Basic Wall 22_la_hardhout_100mm [4068870]
+    2300054: Basic Wall 22_la_hardhout_100mm [4072757]
+    2300056: Basic Wall 22_la_hardhout_100mm [4081321]
+    2300058: Basic Wall 22_la_hout_146 [4199988]
+    2300060: Basic Wall 22_la_hout_146 [708547]
+    2300062: Basic Wall 22_la_kalkzandsteen_150mm [1031761]
+    2300064: Basic Wall 22_la_kalkzandsteen_150mm [1031763]
+    2300066: Basic Wall 22_la_kalkzandsteen_150mm [1031765]
+    2300068: Basic Wall 22_la_luchtspouw_146 [708548]
+    2300070: Basic Wall 22_la_metalstud_100mm [1022487].001
+    2300072: Basic Wall 22_la_metalstud_100mm [1112360].001
+    2300074: Basic Wall 22_la_metalstud_100mm [1113827]
+    2300076: Basic Wall 22_la_metalstud_100mm [1403901]
+    2300078: Basic Wall 22_la_metalstud_100mm [2902357].001
+    2300080: Basic Wall 22_la_metalstud_100mm [2942002].001
+    2300082: Basic Wall 22_la_metalstud_100mm [2942034].001
+    2300084: Basic Wall 22_la_metalstud_100mm [2942035].001
+    2300086: Basic Wall 22_la_metalstud_100mm [3116655]
+    2300088: Basic Wall 22_la_metalstud_100mm [4201615]
+    2300090: Basic Wall 22_la_metalstud_100mm [4204214].001
+    2300092: Basic Wall 22_la_metalstud_100mm [5254029].001
+    2300094: Basic Wall 22_la_metalstud_100mm [5279616]
+    2300096: Basic Wall 22_la_metalstud_100mm [5390553]
+    2300098: Basic Wall 22_la_metalstud_100mm [5399289]
+    2300100: Basic Wall 22_la_metalstud_100mm [5687912]
+    2300102: Basic Wall 22_la_metalstud_100mm [5869175]
+    2300104: Basic Wall 22_la_metalstud_100mm [870024]
+    2300106: Basic Wall 22_la_metalstud_200mm [1022489].001
+    2300108: Basic Wall 22_la_metalstud_enkelzijdig_beplaat_70mm [5114214]
+    2300110: Basic Wall 22_la_ontwerpwand_100 [497153]
+    2300112: Basic Wall 22_la_ontwerpwand_100 [5474402]
+    2300114: Basic Wall 22_la_ontwerpwand_100 [608442]
+    2300116: Basic Wall 22_la_ontwerpwand_100 [608531]
+    2300118: Basic Wall 22_la_ontwerpwand_glas_100 [497152]
+    2300120: Basic Wall 22_la_ontwerpwand_glas_100 [497154]
+    2300122: Basic Wall 22_la_ontwerpwand_glas_100 [497165]
+    2300124: Basic Wall 22_la_ontwerpwand_glas_100 [5474321]
+    2300126: Basic Wall 22_la_ontwerpwand_glas_100 [5474373]
+    2300128: Basic Wall 22_la_ontwerpwand_glas_100 [5475313]
+    2300130: Basic Wall 22_la_ontwerpwand_glas_100 [5475502]
+    2300132: Basic Wall 22_la_ontwerpwand_glas_100 [608438]
+    2300134: Basic Wall 22_la_ontwerpwand_glas_100 [608770]
+    2300136: Basic Wall 22_la_ontwerpwand_glas_100 [608805]
+    2300138: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [.000
+    2300140: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [.001
+    2300142: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [5381
+    2300144: Basic Wall 28_la_beton_300mm [1022302]
+    2300146: Basic Wall 28_la_beton_300mm [1022306]
+    2300148: Basic Wall 28_la_beton_300mm [1031757]
+    2300150: Basic Wall 28_la_beton_300mm [1116385].001
+    2300152: Basic Wall 28_la_beton_300mm [1293190]
+    2300154: Basic Wall 28_la_beton_300mm [1293363]
+    2300156: Basic Wall 28_la_beton_300mm [1293495]
+    2300158: Basic Wall 28_la_beton_300mm [1294049]
+    2300160: Basic Wall 28_la_beton_300mm [3404118]
+    2300162: Basic Wall 28_la_beton_300mm [3582313]
+    2300164: Basic Wall 28_la_beton_300mm [3584702]
+    2300166: Basic Wall 28_la_beton_300mm [3586331]
+    2300168: Basic Wall 28_la_beton_300mm [3586491]
+    2300170: Basic Wall 28_la_beton_300mm [870011]
+    2300172: Basic Wall 28_la_beton_300mm [870015]
+    2300174: Basic Wall 28_la_beton_300mm [870017]
+    2300176: Basic Wall 28_la_beton_300mm [870019]
+    2300178: Basic Wall 28_la_beton_500mm [3119787]
+    2300180: Floor la_cementdek_108_kunststof_2 [1117089].001
+    2300182: Floor la_cementdek_109_coating_1 [706389]
+    2300184: Floor la_pootjes_computervloer_107_pvc_3 [6625666].001
+    2300186: Wall Sweep houten bekleding_verd2 [5310584]
+    2300188: //RootNode
+    3300000: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.010
+    3300002: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.011
+    3300004: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.025
+    3300006: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.045
+    3300008: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.003
+    3300010: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.040
+    3300012: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.041
+    3300014: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.042
+    3300016: 32_la_binnendeur_gibolat dagmaat 1000x2300 [5496820].001
+    3300018: 32_la_deur_geen-zijlicht bih-D - schachtkozijn_grote_kern_beggr
+    3300020: 32_la_deur_geen-zijlicht bih-F - 730x2315_rechts (leidingsc.001
+    3300022: 32_la_dubbeledeur_buitendraaiend bih-A - schachtkozijn_grote_ke
+    3300024: 32_la_dubbeledeur_buitendraaiend bih-A - schachtkozijn_klei.001
+    3300026: 32_la_paneel_tussen_deuren schachtkozijn_grote_kern_beggr_t.001
+    3300028: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.020
+    3300030: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.037
+    3300032: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.038
+    3300034: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.086
+    3300036: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.087
+    3300038: 42_la_wandpaneel_dik_hoek la_akoestisch_wandpaneel_2860x585x340
+    3300040: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5308985]
+    3300042: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5309246]
+    3300044: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5309683]
+    3300046: Basic Wall 22_la_hardhout_100mm [3576732]
+    3300048: Basic Wall 22_la_hardhout_100mm [3576734]
+    3300050: Basic Wall 22_la_hardhout_100mm [4059271]
+    3300052: Basic Wall 22_la_hardhout_100mm [4068870]
+    3300054: Basic Wall 22_la_hardhout_100mm [4072757]
+    3300056: Basic Wall 22_la_hardhout_100mm [4081321]
+    3300058: Basic Wall 22_la_hout_146 [4199988]
+    3300060: Basic Wall 22_la_hout_146 [708547]
+    3300062: Basic Wall 22_la_kalkzandsteen_150mm [1031761]
+    3300064: Basic Wall 22_la_kalkzandsteen_150mm [1031763]
+    3300066: Basic Wall 22_la_kalkzandsteen_150mm [1031765]
+    3300068: Basic Wall 22_la_luchtspouw_146 [708548]
+    3300070: Basic Wall 22_la_metalstud_100mm [1022487].001
+    3300072: Basic Wall 22_la_metalstud_100mm [1112360].001
+    3300074: Basic Wall 22_la_metalstud_100mm [1113827]
+    3300076: Basic Wall 22_la_metalstud_100mm [1403901]
+    3300078: Basic Wall 22_la_metalstud_100mm [2902357].001
+    3300080: Basic Wall 22_la_metalstud_100mm [2942002].001
+    3300082: Basic Wall 22_la_metalstud_100mm [2942034].001
+    3300084: Basic Wall 22_la_metalstud_100mm [2942035].001
+    3300086: Basic Wall 22_la_metalstud_100mm [3116655]
+    3300088: Basic Wall 22_la_metalstud_100mm [4201615]
+    3300090: Basic Wall 22_la_metalstud_100mm [4204214].001
+    3300092: Basic Wall 22_la_metalstud_100mm [5254029].001
+    3300094: Basic Wall 22_la_metalstud_100mm [5279616]
+    3300096: Basic Wall 22_la_metalstud_100mm [5390553]
+    3300098: Basic Wall 22_la_metalstud_100mm [5399289]
+    3300100: Basic Wall 22_la_metalstud_100mm [5687912]
+    3300102: Basic Wall 22_la_metalstud_100mm [5869175]
+    3300104: Basic Wall 22_la_metalstud_100mm [870024]
+    3300106: Basic Wall 22_la_metalstud_200mm [1022489].001
+    3300108: Basic Wall 22_la_metalstud_enkelzijdig_beplaat_70mm [5114214]
+    3300110: Basic Wall 22_la_ontwerpwand_100 [497153]
+    3300112: Basic Wall 22_la_ontwerpwand_100 [5474402]
+    3300114: Basic Wall 22_la_ontwerpwand_100 [608442]
+    3300116: Basic Wall 22_la_ontwerpwand_100 [608531]
+    3300118: Basic Wall 22_la_ontwerpwand_glas_100 [497152]
+    3300120: Basic Wall 22_la_ontwerpwand_glas_100 [497154]
+    3300122: Basic Wall 22_la_ontwerpwand_glas_100 [497165]
+    3300124: Basic Wall 22_la_ontwerpwand_glas_100 [5474321]
+    3300126: Basic Wall 22_la_ontwerpwand_glas_100 [5474373]
+    3300128: Basic Wall 22_la_ontwerpwand_glas_100 [5475313]
+    3300130: Basic Wall 22_la_ontwerpwand_glas_100 [5475502]
+    3300132: Basic Wall 22_la_ontwerpwand_glas_100 [608438]
+    3300134: Basic Wall 22_la_ontwerpwand_glas_100 [608770]
+    3300136: Basic Wall 22_la_ontwerpwand_glas_100 [608805]
+    3300138: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [.000
+    3300140: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [.001
+    3300142: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [5381
+    3300144: Basic Wall 28_la_beton_300mm [1022302]
+    3300146: Basic Wall 28_la_beton_300mm [1022306]
+    3300148: Basic Wall 28_la_beton_300mm [1031757]
+    3300150: Basic Wall 28_la_beton_300mm [1116385].001
+    3300152: Basic Wall 28_la_beton_300mm [1293190]
+    3300154: Basic Wall 28_la_beton_300mm [1293363]
+    3300156: Basic Wall 28_la_beton_300mm [1293495]
+    3300158: Basic Wall 28_la_beton_300mm [1294049]
+    3300160: Basic Wall 28_la_beton_300mm [3404118]
+    3300162: Basic Wall 28_la_beton_300mm [3582313]
+    3300164: Basic Wall 28_la_beton_300mm [3584702]
+    3300166: Basic Wall 28_la_beton_300mm [3586331]
+    3300168: Basic Wall 28_la_beton_300mm [3586491]
+    3300170: Basic Wall 28_la_beton_300mm [870011]
+    3300172: Basic Wall 28_la_beton_300mm [870015]
+    3300174: Basic Wall 28_la_beton_300mm [870017]
+    3300176: Basic Wall 28_la_beton_300mm [870019]
+    3300178: Basic Wall 28_la_beton_500mm [3119787]
+    3300180: Floor la_cementdek_108_kunststof_2 [1117089].001
+    3300182: Floor la_cementdek_109_coating_1 [706389]
+    3300184: Floor la_pootjes_computervloer_107_pvc_3 [6625666].001
+    3300186: Wall Sweep houten bekleding_verd2 [5310584]
+    3300188: //RootNode
+    4300000: Basic Wall 22_la_ontwerpwand_glas_100 [497152]
+    4300002: Basic Wall 22_la_ontwerpwand_100 [497153]
+    4300004: Basic Wall 22_la_ontwerpwand_glas_100 [497154]
+    4300006: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.020
+    4300008: Basic Wall 22_la_ontwerpwand_glas_100 [497165]
+    4300010: Basic Wall 22_la_ontwerpwand_glas_100 [608438]
+    4300012: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.037
+    4300014: Basic Wall 22_la_ontwerpwand_100 [608442]
+    4300016: Basic Wall 22_la_ontwerpwand_100 [608531]
+    4300018: Basic Wall 22_la_ontwerpwand_glas_100 [608770]
+    4300020: Basic Wall 22_la_ontwerpwand_glas_100 [608805]
+    4300022: Floor la_cementdek_109_coating_1 [706389]
+    4300024: Basic Wall 22_la_hout_146 [708547]
+    4300026: Basic Wall 22_la_luchtspouw_146 [708548]
+    4300028: Basic Wall 28_la_beton_300mm [870011]
+    4300030: Basic Wall 28_la_beton_300mm [870015]
+    4300032: Basic Wall 28_la_beton_300mm [870017]
+    4300034: Basic Wall 28_la_beton_300mm [870019]
+    4300036: Basic Wall 22_la_metalstud_100mm [870024]
+    4300038: Basic Wall 28_la_beton_300mm [1022302]
+    4300040: Basic Wall 28_la_beton_300mm [1022306]
+    4300042: Basic Wall 22_la_metalstud_100mm [1022487].001
+    4300044: Basic Wall 22_la_metalstud_200mm [1022489].001
+    4300046: Basic Wall 28_la_beton_300mm [1031757]
+    4300048: Basic Wall 22_la_kalkzandsteen_150mm [1031761]
+    4300050: Basic Wall 22_la_kalkzandsteen_150mm [1031763]
+    4300052: Basic Wall 22_la_kalkzandsteen_150mm [1031765]
+    4300054: 32_la_deur_geen-zijlicht bih-D - schachtkozijn_grote_kern_beggr
+    4300056: 32_la_dubbeledeur_buitendraaiend bih-A - schachtkozijn_grote_ke
+    4300058: Basic Wall 22_la_metalstud_100mm [1112360].001
+    4300060: Basic Wall 22_la_metalstud_100mm [1113827]
+    4300062: Basic Wall 28_la_beton_300mm [1116385].001
+    4300064: Floor la_cementdek_108_kunststof_2 [1117089].001
+    4300066: Basic Wall 28_la_beton_300mm [1293190]
+    4300068: Basic Wall 28_la_beton_300mm [1293363]
+    4300070: Basic Wall 28_la_beton_300mm [1293495]
+    4300072: Basic Wall 28_la_beton_300mm [1294049]
+    4300074: Basic Wall 22_la_metalstud_100mm [1403901]
+    4300076: 32_la_dubbeledeur_buitendraaiend bih-A - schachtkozijn_klei.001
+    4300078: Basic Wall 22_la_metalstud_100mm [2902357].001
+    4300080: Basic Wall 22_la_metalstud_100mm [2942002].001
+    4300082: Basic Wall 22_la_metalstud_100mm [2942034].001
+    4300084: Basic Wall 22_la_metalstud_100mm [2942035].001
+    4300086: Basic Wall 22_la_metalstud_100mm [3116655]
+    4300088: Basic Wall 28_la_beton_500mm [3119787]
+    4300090: Basic Wall 28_la_beton_300mm [3404118]
+    4300092: Basic Wall 22_la_hardhout_100mm [3576732]
+    4300094: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.010
+    4300096: Basic Wall 22_la_hardhout_100mm [3576734]
+    4300098: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.011
+    4300100: Basic Wall 28_la_beton_300mm [3582313]
+    4300102: Basic Wall 28_la_beton_300mm [3584702]
+    4300104: Basic Wall 28_la_beton_300mm [3586331]
+    4300106: Basic Wall 28_la_beton_300mm [3586491]
+    4300108: Basic Wall 22_la_hardhout_100mm [4059271]
+    4300110: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.025
+    4300112: Basic Wall 22_la_hardhout_100mm [4068870]
+    4300114: Basic Wall 22_la_hardhout_100mm [4072757]
+    4300116: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.003
+    4300118: Basic Wall 22_la_hardhout_100mm [4081321]
+    4300120: 32_Berkvens_Avento RZ 30PLUS brandwerend + Berkopal stomp_l.045
+    4300122: Basic Wall 22_la_hout_146 [4199988]
+    4300124: Basic Wall 22_la_metalstud_100mm [4201615]
+    4300126: Basic Wall 22_la_metalstud_100mm [4204214].001
+    4300128: Basic Wall 22_la_metalstud_enkelzijdig_beplaat_70mm [5114214]
+    4300130: Basic Wall 22_la_metalstud_100mm [5254029].001
+    4300132: Basic Wall 22_la_metalstud_100mm [5279616]
+    4300134: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5308985]
+    4300136: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5309246]
+    4300138: Basic Wall 21_la_borstwering_vliesgevel_2e_verdieping [5309683]
+    4300140: Wall Sweep houten bekleding_verd2 [5310584]
+    4300142: 32_la_deur_geen-zijlicht bih-F - 730x2315_rechts (leidingsc.001
+    4300144: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [5381
+    4300146: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [.000
+    4300148: Basic Wall 22_la_sandwichpaneel_aluminium_vliesgevelkleur [.001
+    4300150: Basic Wall 22_la_metalstud_100mm [5390553]
+    4300152: Basic Wall 22_la_metalstud_100mm [5399289]
+    4300154: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.040
+    4300156: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.041
+    4300158: 32_Berkvens_Avento RZ std + Berkopal stomp_la-edit 930X2315.042
+    4300160: Basic Wall 22_la_ontwerpwand_glas_100 [5474321]
+    4300162: Basic Wall 22_la_ontwerpwand_glas_100 [5474373]
+    4300164: Basic Wall 22_la_ontwerpwand_100 [5474402]
+    4300166: Basic Wall 22_la_ontwerpwand_glas_100 [5475313]
+    4300168: Basic Wall 22_la_ontwerpwand_glas_100 [5475502]
+    4300170: 32_la_VO_binnendeur_met_spiegelstuk dagmaat 900_verdiepings.086
+    4300172: 32_la_binnendeur_gibolat dagmaat 1000x2300 [5496820].001
+    4300174: Basic Wall 22_la_metalstud_100mm [5687912]
+    4300176: Basic Wall 22_la_metalstud_100mm [5869175]
+    4300178: 32_la_paneel_tussen_deuren schachtkozijn_grote_kern_beggr_t.001
+    4300180: Floor la_pootjes_computervloer_107_pvc_3 [6625666].001
+    4300182: 42_la_wandpaneel_dik_hoek la_akoestisch_wandpaneel_2860x585x340
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

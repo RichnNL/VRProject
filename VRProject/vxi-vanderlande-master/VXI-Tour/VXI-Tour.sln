@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VXI-Tour.Plugins", "VXI-Tour.Plugins.csproj", "{41B6AE60-7FD6-471D-7AFA-6E1CDAFBECC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VXI-Tour", "VXI-Tour.csproj", "{41077691-339C-4F29-9BA3-55E1241EEC76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VXI-Tour.Editor.Plugins", "VXI-Tour.Editor.Plugins.csproj", "{2DA86FFE-289E-2A5B-FF5C-93D3C184924E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VXI-Tour.Editor", "VXI-Tour.Editor.csproj", "{14DB6BA7-4BA3-085D-87CB-8DFB7C04FA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41B6AE60-7FD6-471D-7AFA-6E1CDAFBECC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B6AE60-7FD6-471D-7AFA-6E1CDAFBECC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B6AE60-7FD6-471D-7AFA-6E1CDAFBECC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B6AE60-7FD6-471D-7AFA-6E1CDAFBECC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41077691-339C-4F29-9BA3-55E1241EEC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41077691-339C-4F29-9BA3-55E1241EEC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41077691-339C-4F29-9BA3-55E1241EEC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41077691-339C-4F29-9BA3-55E1241EEC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA86FFE-289E-2A5B-FF5C-93D3C184924E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA86FFE-289E-2A5B-FF5C-93D3C184924E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA86FFE-289E-2A5B-FF5C-93D3C184924E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA86FFE-289E-2A5B-FF5C-93D3C184924E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DB6BA7-4BA3-085D-87CB-8DFB7C04FA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DB6BA7-4BA3-085D-87CB-8DFB7C04FA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DB6BA7-4BA3-085D-87CB-8DFB7C04FA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DB6BA7-4BA3-085D-87CB-8DFB7C04FA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
